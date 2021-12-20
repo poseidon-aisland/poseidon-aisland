@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @poseidon-aisland, I am a coder for all my life from when I was 15 years old. I married young and I became grandfather quite early, so you can guess how many centuries I'm on the earth.
+- 👋 Hi, I’m @poseidon-aisland, I am a coder for all my life from when I was 15 years old.
 - 👀 I’m interested in decentralized web and blockchain technology;
 - 🌱 I’m very curios on different aspect of the technology;
 - 📫 How to reach me: admin@aisland.io
